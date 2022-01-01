@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fadluu
-- 👀 I’m interested in robotic, tecno, ext
+- 👀 I’m interested in robotic, tecno, CAD (2D,3D)
 - 🌱 I’m currently learning many programming language
 - 💞️ I’m looking to collaborate on online projects
 - 📫 how to reach me
